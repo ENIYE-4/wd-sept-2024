@@ -1,0 +1,11 @@
+
+/*Id selector starts with the # symbol*/
+#myid{
+    color: yellow;
+    font-size: 40px;
+}
+/*Class selector starts with the.symbol*/
+.my-class-link{
+    color: green;
+    font-size: 40px;
+}

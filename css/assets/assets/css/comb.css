@@ -1,0 +1,13 @@
+/*universal selector*/
+/*It select all elements*/
+*{
+    color: rgb(226, 34, 34);
+    background-color: black;
+}
+.my-nav ul li a {
+            color: rgb(0, 247, 255) ;
+}  
+
+main section h1{
+            color: green;
+}
